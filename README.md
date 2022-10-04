@@ -8,6 +8,7 @@ I am Amit Kumar, a **QA Engineer** with over 3 years of Quality Assurance experi
 - 💬 I am happy to discuss about **Functional Testing, Automation with Selenium Webdriver and Appium, Agile, Integration Testing**, and anything else related to testing..
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/amit-kumar-y96/).
 - ⚡ By day, I'm an Engineer in progress, and by night, I'm a poet.
+- 💬 Checkout my latest blog on [Journey from a Fresher to a Professional in Corporate Industry](https://blog.kiprosh.com/journey-from-fresher-to-professional-in-corporate-industry/)
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=amitkumar-y&show_icons=true&theme=default" alt="GitHub Stats" />
