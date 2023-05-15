@@ -3,7 +3,7 @@
 I am Amit Kumar, a **QA Engineer** with over 3 years of Quality Assurance experience in the IT Industry. Managing testing for web and mobile applications effectively and efficiently, as well as working on self-development to provide service that exceeds expectations.
 
 - 🔭 I’m currently working at **[Kiprosh](https://kiprosh.com/)** on a CRM project for a USA-based client.
-- 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/en/) to work on automation using [Capybara](https://teamcapybara.github.io/capybara/).
+- 🌱 I’m currently learning [JavaScript](https://en.wikipedia.org/wiki/JavaScript) to work on automation using [WebdriverIO](https://webdriver.io/).
 - 👯 I'd love to work on any open-source project where I can contribute my skills.
 - 💬 I am happy to discuss about **Functional Testing, Automation with Selenium Webdriver and Appium, Agile, Integration Testing**, and anything else related to testing..
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/amit-kumar-y96/).
@@ -22,6 +22,7 @@ I am Amit Kumar, a **QA Engineer** with over 3 years of Quality Assurance experi
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   
 </p>
 
