@@ -2,7 +2,7 @@
 
 I am Amit Kumar, a **QA Engineer** with over 3 years of Quality Assurance experience in the IT Industry. Managing testing for web and mobile applications effectively and efficiently, as well as working on self-development to provide service that exceeds expectations.
 
-- 🔭 I’m currently working at **[Kiprosh](https://kiprosh.com/)** on a CRM project for a USA-based client.
+- 🔭 I’m currently working at a product company **[Lawlytics](https://www.lawlytics.com/about/?utm_source=kiprosh&utm_medium=kiprosh-website)**.
 - 🌱 I’m currently learning [JavaScript](https://en.wikipedia.org/wiki/JavaScript) to work on automation using [WebdriverIO](https://webdriver.io/).
 - 👯 I'd love to work on any open-source project where I can contribute my skills.
 - 💬 I am happy to discuss about **Functional Testing, Automation with Selenium Webdriver and Appium, Agile, Integration Testing**, and anything else related to testing..
