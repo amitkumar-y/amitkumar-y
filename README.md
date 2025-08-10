@@ -1,6 +1,6 @@
 </h2>  Hello, and good to see you. <img src="wave.gif" width="30px"> </h2>
 
-I am Amit Kumar, a **QA Engineer** with over 4 years of Quality Assurance experience in the IT Industry. Managing testing for web and mobile applications effectively and efficiently, as well as working on self-development to provide service that exceeds expectations.
+I am Amit Kumar, a **Senior QA Engineer** with over 5 years of Quality Assurance experience in the IT Industry. Managing testing for web and mobile applications effectively and efficiently, as well as working on self-development to provide service that exceeds expectations.
 
 - 🔭 I’m currently working at a product company **[Lawlytics](https://www.lawlytics.com/about/?utm_source=kiprosh&utm_medium=kiprosh-website)**.
 - 🌱 I’m currently using [JavaScript](https://en.wikipedia.org/wiki/JavaScript) for automation using [WebdriverIO](https://webdriver.io/).
